@@ -576,9 +576,9 @@ Academic Excellence
   'contact': {
     response: `📞 Contact Information
 
-• Email: ksvnspavankumar.24@gmail.com
-• LinkedIn: https://linkedin.com/in/pavankumarkaravadi24
-• GitHub: https://github.com/Pavan-2445
+• Email: kroshankumar548@gmail.com
+• LinkedIn: www.linkedin.com/in/roshankumar-kamadula
+• GitHub: https://github.com/RoshanKumar0102
 • Location: Chirala, Andhra Pradesh, India
 
 Feel free to reach out for collaborations, opportunities, or just to connect!`,
@@ -590,7 +590,7 @@ Feel free to reach out for collaborations, opportunities, or just to connect!`,
     response: `📄 Resume Download
 
 You can download my resume from:
-• Google Drive: https://drive.google.com/file/d/1_U8nlP1FZ2UfAXKYWc67u3KHYamzaF9K/view?usp=drivesdk
+• Google Drive: https://drive.google.com/file/d/1uvfHKYMhBydzlECc3Pim1MR2wYRf_hjh/view?usp=sharing
 
 The resume includes my complete educational background, work experience, projects, skills, and achievements.`,
     keywords: ['resume', 'cv', 'download', 'file', 'document']
