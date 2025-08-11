@@ -630,7 +630,7 @@ Try asking: "Tell me about your projects" or "What's your experience?"`,
   'about': {
     response: `👨‍💻 About Me
 
-I'm Karavadi Pavan Kumar, a passionate AI & Data Science student currently in my final year of B.Tech at Vasireddy Venkatadri Institute of Technology.
+I'm Roshan Kumar, a passionate AI & Data Science student currently in my final year of B.Tech at Vasireddy Venkatadri Institute of Technology.
 
 What I do:
 • Turn real-world problems into smart solutions
